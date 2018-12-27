@@ -11,5 +11,6 @@
 		* xxx.tr表示Workload(如何產生workload可以參考Filebench和Strace)
 		* 256=CacheSize
 		* 3=LRU
-		* 0表示不使用prefetch 
-	
+		* 0表示不使用prefetch
+		
+		
