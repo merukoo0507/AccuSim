@@ -1,0 +1,21 @@
+to run use the following command line. Examine predict.cc for other options.
+
+./predict -a traceFileName -s cacheSize -p schemeNum -x prefetch
+
+cacheSize is in number of 4kb blocks
+schemeNum is as follows
+ARC 1
+OPT 2
+LRU 3
+LIRS 4
+LRFU 5
+MQ 6
+LRU2 7
+2Q 8
+
+prefetch is 1 to enable prefetching, and 0 for no prefetching.
+
+-arb 3/18/2006
+
+
+

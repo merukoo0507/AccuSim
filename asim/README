@@ -1,0 +1,14 @@
+1: Make sure that DSHOME in sim/Makefile to point to the correct 
+   directory, i.e., the disksim/src directory.
+
+2: The Sigmetrics paper code is under sim. 
+
+3: Compile as follows
+	cd disksim
+	make
+	
+4: To run change to diretory sim. The main executable is predict. 
+   For more details consult the README and the source code.
+
+-arb 3/18/2006
+
