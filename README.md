@@ -1,9 +1,9 @@
 # AccuSim
-	Use the Simulator to calculate the data of the workload.
+Use the Simulator to calculate the data of the workload.
 
 
 ### 建置
-	建置請參考培堯的github https://github.com/baconYao/Accusim-Strace
+* 建置請參考[培堯的github](https://github.com/baconYao/Accusim-Strace)
 
 
 ### 執行 
